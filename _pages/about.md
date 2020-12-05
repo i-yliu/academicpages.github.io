@@ -34,7 +34,7 @@ Paper Under Review:
 * **Yi Liu**, Alexander Nedo, Lauren Olson, Jeffrey Caplan, Chandra Kambhamettu, *Instance segmentation on thin and elongated objects with LSTM network*
 * Wayne Treible, Alexander Nedo, Kody Seward, **Yi Liu**, Jeffrey Caplan, Chandra Kambhamettu, *Automatic Classification and Quantification of Stromule Dynamics from Microscopy Images*
 
-Conference Presentations:
+Conference Talks/Presentations:
 =====
 * **Yi Liu**, Alexander Nedo, Kody Seward, Jeffrey Caplan, Chandra Kambhamettu, *Quantifying Actin Filaments in Microscopic Images using Keypoint Detection Techniques and A Fast Marching Algorithm, ICIP, 2020.* Dubai, United Arab Emirates [Link to video](https://www.youtube.com/watch?v=xl1RMwspFWY) 
 * **Yi Liu**, Abhishek Kolagunda, Wayne Treible, Alex Nedo, Jeffrey Caplan, Chandra Kambhamettu, *Intersection To Overpass: Instance Segmentation on Filamentous Structures with An Orientation-Aware Neural Network and erminus Pairing Algorithm, CVPR Bioimaging Workshop, 2019.* Long Beach, CA, USA

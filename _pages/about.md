@@ -27,7 +27,7 @@ Publications
 * W. Treible*, P. Saponaro*, **Y. Liu**, A. Das Gupta, V. Veerendraveer, S. Sorensen, C. Kambhamettu., *CATS 2: Color And Thermal Stereo Scenes with Semantic Labels. Vision for All Seasons: Bad Weather and Nighttime (CVPRW), 2019.* [Link to paper]()
 * **Liu, Y.**, Treible, W., Kolagunda, A., Nedo, A., Saponaro, P., Caplan, J. and Kambhamettu, C., *Densely Connected Stacked U-Network for Filament Segmentation in Microscopy Images, ECCV Workshops, 2018.*[Link to paper]()
 
-Publications Under Review:
+Paper Under Review:
 ======
 * **Yi Liu**, Jeffrey Caplan, Chandra Kambhamettu, *Extracting and clustering of Actin Segments in time-series microscopic images*
 * **Yi Liu**, Alexander Nedo, Jeffrey Caplan, Chandra Kambhamettu, *Quantification of filamentous structures in microscopic images*

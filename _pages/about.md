@@ -23,7 +23,7 @@ redirect_from:
 Publications
 ======
 * **Yi Liu**, Alexander Nedo, Kody Seward, Jeffrey Caplan, Chandra Kambhamettu, *Quantifying Actin Filaments in Microscopic Images using Keypoint Detection Techniques and A Fast Marching Algorithm, ICIP, 2020.* <a href="i-yliu.github.io/files/actin.pdf" target="_blank">Link to paper</a>
-* **Yi Liu**, Abhishek Kolagunda, Wayne Treible, Alex Nedo, Jeffrey Caplan, Chandra Kambhamettu, *Intersection To Overpass: Instance Segmentation on Filamentous Structures with An Orientation-Aware Neural Network and erminus Pairing Algorithm, CVPR Bioimaging Workshop, 2019.* [Link to paper]()
+* **Yi Liu**, Abhishek Kolagunda, Wayne Treible, Alex Nedo, Jeffrey Caplan, Chandra Kambhamettu, *Intersection To Overpass: Instance Segmentation on Filamentous Structures with An Orientation-Aware Neural Network and erminus Pairing Algorithm, CVPR Bioimaging Workshop, 2019.* [Link to paper](../files/Liu_Intersection_to_Overpass_Instance_Segmentation_on_Filamentous_Structures_With_an_CVPRW_2019_paper.pdf)
 * W. Treible*, P. Saponaro*, **Y. Liu**, A. Das Gupta, V. Veerendraveer, S. Sorensen, C. Kambhamettu., *CATS 2: Color And Thermal Stereo Scenes with Semantic Labels. Vision for All Seasons: Bad Weather and Nighttime (CVPRW), 2019.* [Link to paper]()
 * **Liu, Y.**, Treible, W., Kolagunda, A., Nedo, A., Saponaro, P., Caplan, J. and Kambhamettu, C., *Densely Connected Stacked U-Network for Filament Segmentation in Microscopy Images, ECCV Workshops, 2018.*[Link to paper]()
 

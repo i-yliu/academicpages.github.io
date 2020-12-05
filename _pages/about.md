@@ -7,8 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research interests lie in the general area of computer vision and machine learning. I have great passion and experience in solving real-world computer vision problems using deep learning approaches and classic computer vision techniques. 
+
+My most recent project is to collaborate with Delaware Biotechnology Institute and develop methods to quantify filamentous structures of cells in microscopic images. My responsibilties include **data collection, data preprocssing, model desgin, model evaluation and model deployment**. The topic of this project invloves **image segmentation, data augmentation, instance segmentation, object detection, tracking, clustring analysis** and etc. My proposed methods has been great help for biologists to conduct further scientific research.
+
+I also have great interests in **uncertainty estimation and anomaly detection**.
+
 
 A data-driven personal website
 ======

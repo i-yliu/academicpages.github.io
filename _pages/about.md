@@ -7,13 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). 
+* I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). 
 
-My research interests lie in the general area of computer vision and machine learning. I have great passion and experience in solving real-world computer vision problems using deep learning approaches and classic computer vision techniques. 
+* My research interests lie in the general area of computer vision and machine learning. I have great passion and experience in solving real-world computer vision problems using deep learning approaches and classic computer vision techniques. 
 
-My most recent project is to collaborate with Delaware Biotechnology Institute and develop methods to quantify filamentous structures of cells in microscopic images. My responsibilties include **data collection, data preprocssing, model desgin, model evaluation and model deployment**. The topic of this project invloves **image segmentation, data augmentation, instance segmentation, object detection, tracking, clustring analysis** and etc. My proposed methods has been great help for biologists to conduct further scientific research.
+* My most recent project is to collaborate with Delaware Biotechnology Institute and develop methods to quantify filamentous structures of cells in microscopic images. My proposed methods has been great help for biologists to conduct further scientific research.
 
-I also have great interests in **uncertainty estimation and anomaly detection**.
+* My responsibilties include **data collection, data preprocssing, model desgin, model evaluation and model deployment**. 
+
+* The topic of my project invloves **image segmentation, data augmentation, instance segmentation, object detection, tracking, clustring analysis** and etc. 
+
+* I also have great interests in **uncertainty estimation and anomaly detection**.
 
 
 A data-driven personal website

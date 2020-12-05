@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yi Liu"
-  avatar           : "/images/Yiliu_photo.jpg"
+  avatar           : "Yiliu_photo.jpg"
   bio              : "I am currently a phd student majoring in computer science at the university of Delaware. My research interests are computer vision, machine learning, and deep learning ."
   location         : "Newark, DE"
   employer         :

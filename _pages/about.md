@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). 
+* I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). I also affiliated with Delaware Biotechnology Institude, co-advised by [Jeffrey Caplan](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/faculty-staff/jeffrey-caplan/)
 
 * My research interests lie in the general area of computer vision and machine learning. I have great passion and experience in solving real-world computer vision problems using deep learning approaches and classic computer vision techniques. 
 

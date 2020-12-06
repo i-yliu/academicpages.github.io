@@ -5,13 +5,13 @@ However, segmenting filamentous structures at an instancelevel is hampered by th
 In this project, I propse an orientation-aware neural network, which contains six orientation-associated branches. 
 Each branch detects filaments with specific range of orientations, thus separatingthem at junctions, and turning intersections to overpasses.
 A terminus pairing algorithm is also proposed to regroupfilaments from different branches, and achieve individual filaments extraction. 
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 <iframe src="https://youtu.be/w5lpYK4-OvA" 
     width="560" 
     height="315"
     frameborder="0" 
     allowfullscreen>
 </iframe>
-collection: portfolio
----
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

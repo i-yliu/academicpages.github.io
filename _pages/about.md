@@ -14,7 +14,7 @@ redirect_from:
 
 * My most recent project is to collaborate with Delaware Biotechnology Institute and develop methods to quantify filamentous structures of cells in microscopic images. My proposed methods has been great help for biologists to conduct further scientific research. 
 
-* My responsibilties include **communicating with Biologist, data collection, data preprocssing, model desgin, model evaluation and model deployment**. 
+* My responsibilties include **communicating with biologist, data collection, data preprocssing, model desgin, model evaluation and model deployment**. 
 
 * The topic of my project invloves **image segmentation, data augmentation, instance segmentation, object detection, tracking, clustring analysis** and etc. 
 

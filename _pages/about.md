@@ -7,18 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 * I am currently a Ph.D. student in Video/Image Modeling and Synthesis Lab of Computer Science Department at the [University of Delaware](https://www.udel.edu/), advised by Dr. [Chandra Kambhamettu](https://scholar.google.com/citations?hl=en&user=BMVESLIAAAAJ&view_op=list_works&sortby=pubdate). I also affiliated with [Delaware Biotechnology Institude](https://www.dbi.udel.edu/), co-advised by [Jeffrey Caplan](https://www.udel.edu/academics/colleges/canr/departments/plant-and-soil-sciences/faculty-staff/jeffrey-caplan/)
 
 * My research interests lie in the general area of computer vision and machine learning. I have great passion and experience in solving real-world computer vision problems using deep learning approaches and classic computer vision techniques. 
 
 * My most recent project is to collaborate with Delaware Biotechnology Institute and develop methods to quantify filamentous structures of cells in microscopic images. My proposed methods has been great help for biologists to conduct further scientific research. 
 
-* My responsibilties include **Communicating with Biologist, data collection, data preprocssing, model desgin, model evaluation and model deployment**. 
+* My responsibilties include **communicating with Biologist, data collection, data preprocssing, model desgin, model evaluation and model deployment**. 
 
 * The topic of my project invloves **image segmentation, data augmentation, instance segmentation, object detection, tracking, clustring analysis** and etc. 
 
 * I also have great interests in **uncertainty estimation and anomaly detection**.
 
+Education
+======
+2017.09 - Present
+University of Delaware, Ph.D in Computer Science, GPA 4.0/4.0
+2016.01 - 2017.07
+University of Maryland, M.S in Structural Engineering, GPA 3.9/4.0, Computational Structural Engineering, Finite Element Analysis
+2011.09 - 2015.07
+Hunan University, B.S. in Structural Engineering, Top 3 Graduation Project
 
 Publications
 ======

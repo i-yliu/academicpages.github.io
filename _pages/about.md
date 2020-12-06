@@ -22,16 +22,13 @@ redirect_from:
 
 Education
 ======
-2017.09 - Present
+**2017.09 - Present<br>**
+**University of Delaware, Ph.D in Computer Science, GPA 4.0/4.0,** Computer Vision, Deep Learning
 
-University of Delaware, Ph.D in Computer Science, GPA 4.0/4.0, Computer Vision, Deep Learning
-
-2016.01 - 2017.07
-
+2016.01 - 2017.07<br>
 University of Maryland, M.S in Structural Engineering, GPA 3.9/4.0, Computational Structural Engineering, Finite Element Analysis
 
-2011.09 - 2015.07
-
+2011.09 - 2015.07<br>
 Hunan University, B.S. in Structural Engineering, Top 3 Graduation Project
 
 Publications

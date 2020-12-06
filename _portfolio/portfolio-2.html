@@ -1,6 +1,14 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Quantification analysis of actin filaments in microscopic images"
+excerpt: "The actin filament plays a fundamental role in numerous cellular processes such as cell growth, proliferation, migration, division, and locomotion.
+The actin cytoskeleton is highly dynamical and can polymerize and depolymerize in a very short time under different stimuli. 
+To study the mechanics of actin filament, quantifying the length and number of actin filaments in each time frame of microscopic images is fundamental.
+Different from microtubules, actin filaments is considered as from intersections/endpoints to intersection/endpoints, namely indiviudal segments of the actin network.
+In this project, we adopt a Convolutional Neural Network (CNN) to segment actin filaments first, and then we utilize a modified Resnet to detect junctions and endpoints of filaments. 
+With binary segmentation and detected keypoints, we apply a fast marching algorithm to obtain the number and length of each actin filament in microscopic images. 
+We have also collected a dataset of 10 microscopic images of actin filaments to test our method.
+Our experiments show that our approach outperforms other existing approaches tackling this problem regarding both accuracy and inference time.
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
